@@ -24,7 +24,7 @@
 const nextConfig = {
   devIndicators: false,
   output: 'export',
-  basePath: '/bug-report-ebook',
+  basePath: '/E-Book-Publication-Website',
   trailingSlash: true,
   images: {
     unoptimized: true,
