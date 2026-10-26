@@ -4,6 +4,11 @@ const nextConfig = {
   // cacheComponents: true,
   // partialPrefetching: true,
   devIndicators: false,
+   output: 'export',
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
